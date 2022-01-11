@@ -6,7 +6,7 @@
 </div>
  
   <br/><br/> 
-<div align=center> ### :hatched_chick: Tech Stack(Basic)</div>
+<div align=center>:hatched_chick: Tech Stack(Basic)</div>
 <div align=center> ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
