@@ -9,7 +9,7 @@
 <br/><br/> 
 ### <div align=center> :hatched_chick: Tech Stack(Basic)</div>
 <div align=center> 
-<img alt="C" src ="https://img.shields.io/badge/-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
