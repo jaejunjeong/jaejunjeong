@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/jaej0321/" target="_blank"><img alt="Python" src ="https://img.shields.io/badge/jaej0321-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
  <a href="https://www.linkedin.com/in/jaejun-jeong-96b686228/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
- 
+--------- 
 <br/><br/> 
 ### <div align=center> :hatched_chick: Tech Stack(Basic)</div>
 <div align=center> 
@@ -16,7 +16,7 @@
  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
  <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
 </div>
-
+--------- 
   
  <br/><br/> 
 ### <div align=center> :gem: Tech Stack(Major) </div>
@@ -24,7 +24,7 @@
 <img alt="Python" src ="https://img.shields.io/badge/Python3-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
-
+--------- 
 <br/><br/>
 ![Jaejunjeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaejunjeong&theme=default&show_icons=true)
  
