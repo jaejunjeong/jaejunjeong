@@ -9,7 +9,7 @@
 <br/><br/> 
 ### <div align=center> :hatched_chick: Tech Stack(Basic)</div>
 <div align=center> 
-<img alt="C" src ="https://img.shields.io/badge/C-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+<img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
  <img alt="JavaScript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
  <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
@@ -20,7 +20,9 @@
   
  <br/><br/> 
 ### <div align=center> :gem: Tech Stack(Major) </div>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<div align=center>
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ </div>
 
 <br/><br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjaejunjeong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%231C3DA2&title=Hits%21&edge_flat=false)](https://hits.seeyoufarm.com)
