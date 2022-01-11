@@ -2,7 +2,8 @@
 
 
 <div align=center> 
-<a href="https://www.instagram.com/jaej0321/" target="_blank"><img alt="Python" src ="https://img.shields.io/badge/jaej0321-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <a href="https://www.linkedin.com/in/jaejun-jeong-96b686228/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+<a href="https://www.instagram.com/jaej0321/" target="_blank"><img alt="Python" src ="https://img.shields.io/badge/jaej0321-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> 
+ <a href="https://www.linkedin.com/in/jaejun-jeong-96b686228/" target="_blank"><img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/></a>
 </div>
  
 <br/><br/> 
