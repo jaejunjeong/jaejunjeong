@@ -7,14 +7,18 @@
 </div>
  
 <br/><br/> 
-### <div align=center> :hatched_chick: Tech Stack(Basic)</div></center>
+### <div align=center> :hatched_chick: Tech Stack(Basic)</div>
 <div align=center> 
 <img alt="C" src ="https://img.shields.io/badge/-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+ <img alt="Java" src ="https://img.shields.io/badge/-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+ <img alt="JavaScript" src ="https://img.shields.io/badge/-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
+ <img alt="C" src ="https://img.shields.io/badge/-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
+ <img alt="C" src ="https://img.shields.io/badge/-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </div>
 
   
  <br/><br/> 
-### :gem: Tech Stack(Major)
+### <div align=center> :gem: Tech Stack(Major) </div>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 <br/><br/>
