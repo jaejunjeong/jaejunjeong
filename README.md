@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=twinkling)
 
-<a href="https://www.instagram.com/jaej0321/" target="_blank"><img src="https://img.shields.io/badge/jaej0321-#E4405F?logo=instagram&logoColor=000000"/></a>
+<a href="https://www.instagram.com/jaej0321/" target="_blank"><img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ### Tech Stack(Basic)
 
