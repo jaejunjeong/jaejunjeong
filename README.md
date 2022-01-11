@@ -7,7 +7,7 @@
 </div>
  
 <br/><br/> 
-<center>:hatched_chick: Tech Stack(Basic)</center>
+### <div align=center> :hatched_chick: Tech Stack(Basic)</div></center>
 <div align=center> 
 <img alt="C" src ="https://img.shields.io/badge/-E4405F.svg?&style=for-the-badge&logo=C&logoColor=white"/>
 </div>
